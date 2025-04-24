@@ -91,6 +91,9 @@ VIRUSTOTAL_API_KEY=your-virustotal-api-key  # Optional, for VirusTotal
    requests==2.31.0
    virustotal-python==1.1.0  # Optional, for VirusTotal
    ```
+![image](https://github.com/user-attachments/assets/96bb92ed-1b90-4ccc-ab71-0fa9e9e42b52)
+![image](https://github.com/user-attachments/assets/4dc6c038-b4ae-487c-92a3-0e346280a09c)
+
 
 ### 5. Run Locally
 1. Start the bot:
